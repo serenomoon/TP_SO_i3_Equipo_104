@@ -1,0 +1,7 @@
+Beta:
+a- Con todos los datos actualizados de todas las ramas
+b- Si
+c- git checkout main
+git pull origin main
+git merge cegna
+git push origin main
