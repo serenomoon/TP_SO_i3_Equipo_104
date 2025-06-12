@@ -37,3 +37,28 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 10  bytes 800 (800.0 B)
 
 12:40
+
+Agustin Cuallo
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::a00:27ff:fe13:b1c8  prefixlen 64  scopeid 0x20<link>
+        inet6 fd00::a00:27ff:fe13:b1c8  prefixlen 64  scopeid 0x0<global>
+        inet6 fd00::6990:a58c:9654:8cb0  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:13:b1:c8  txqueuelen 1000  (Ethernet)
+        RX packets 612  bytes 547880 (547.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 321  bytes 30331 (30.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 56  bytes 6309 (6.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 56  bytes 6309 (6.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+12:44
+
