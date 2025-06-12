@@ -19,3 +19,21 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 12:33hs
+
+
+Tobias Cegna
+
+	eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.10  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::a00:27ff:fe4e:66a1  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:4e:66:a1  txqueuelen 1000  (Ethernet)
+        RX packets 1024  bytes 876543 (856.1 KiB)
+        TX packets 980  bytes 765432 (747.3 KiB)
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 10  bytes 800 (800.0 B)
+        TX packets 10  bytes 800 (800.0 B)
+
+12:40
