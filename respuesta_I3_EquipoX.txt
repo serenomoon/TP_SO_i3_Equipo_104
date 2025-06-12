@@ -14,5 +14,17 @@ git pull origin fernandez
 git add .
 git commit -m "beta.txt actualizado"
 git push
-	
+
+Alfa:
+g-
+git checkout
+git branch
+git pull
+git checkout fernandez
+git pull origin fernandez
+git status
+git add .
+git status
+git commit -m "Beta.txt actualizado Alfa"
+git push
 	 
