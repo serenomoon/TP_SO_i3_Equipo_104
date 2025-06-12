@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 Tobias Cegna
 IP: 192.168.56.1
 Hora: 11:40 AM
@@ -12,4 +10,4 @@ Hora: 11:59
 Fernandez Saulo
 IP: 192.168.0.24
 Hora: 12:07
->>>>>>> cegna
+
