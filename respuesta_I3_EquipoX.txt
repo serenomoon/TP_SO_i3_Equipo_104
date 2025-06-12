@@ -5,3 +5,14 @@ c- git checkout main
 git pull origin main
 git merge cegna
 git push origin main
+
+Gamma:
+d- si
+e- un problema con un nombre de un archivo
+f- git checkout fernandez
+git pull origin fernandez
+git add .
+git commit -m "beta.txt actualizado"
+git push
+	
+	 
